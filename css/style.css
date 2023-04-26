@@ -1,0 +1,52 @@
+header {
+  width: 1440px;
+  background-color: #2A9D8F;
+  margin: 0 auto;
+  padding: 38px 130px;
+}
+
+.logo {
+  background-color: white;
+  padding: 10px 13px;
+  border-radius: 50%;
+  vertical-align: middle;
+  /* margin-inline: auto; */
+}
+
+nav {
+  display: inline-block;
+  /* background-color: green; */
+  vertical-align: middle;
+  margin-left: 357px;
+
+}
+
+
+li {
+  display: inline-block;
+  font-family: 'Nerko One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: white;
+}
+
+.list_post {
+  margin-inline: 51px;
+}
+
+.header_button {
+  width: 147px;
+  padding: 8px 16px;
+  border-width: 0;
+  color: #2A9D8F;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.005em;
+  margin-left: 300px;
+
+}
