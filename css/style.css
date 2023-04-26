@@ -1,3 +1,4 @@
+/* header */
 header {
   width: 1440px;
   background-color: #2A9D8F;
@@ -10,9 +11,10 @@ header {
   padding: 10px 13px;
   border-radius: 50%;
   vertical-align: middle;
-  /* margin-inline: auto; */
+  margin-inline: auto;
 }
 
+/* navbar */
 nav {
   display: inline-block;
   /* background-color: green; */
@@ -49,4 +51,47 @@ li {
   letter-spacing: 0.005em;
   margin-left: 300px;
 
+}
+
+.section1 {
+  width: 780px;
+  /* background color: red; */
+  margin: 200px auto;
+ 
+}
+
+.section1_heading {
+  color: #4D4D4D;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 130%;
+  text-align: center;
+  letter-spacing: 0.005em;
+  margin-bottom: 60px;
+
+}
+
+.paragraph1 {
+  color: #656565;
+  font-family: 'Nerko One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: justify;
+  letter-spacing: 0.005em;
+  margin-bottom: 52px;
+}
+
+.paragraph2 {
+  color: #656565;
+  font-family: 'Nerko One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: justify;
+  letter-spacing: 0.005em;
 }
