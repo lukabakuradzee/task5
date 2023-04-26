@@ -95,3 +95,59 @@ li {
   text-align: justify;
   letter-spacing: 0.005em;
 }
+
+/* section 2 */
+.section2 {
+  width: 1440px;
+  margin: 0 auto;
+  padding: 80px 0 80px 130px;
+  background-color: #C2F3EE;
+}
+
+.div_section2title {
+  width: 465px;
+  /* background-color: red; */
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 123px;
+  
+}
+
+.section2_heading {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+  letter-spacing: 0.005em;
+  margin-bottom: 27px;
+  color: #272727;
+}
+
+
+.section2_paragraph {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px; 
+  letter-spacing: 0.005em;
+  color: #515151;
+  
+}
+
+.button_readmore {
+  width: 120px;
+  background-color: #2A9D8F;
+  color: #FFFFFF;
+  padding: 11px 16px;
+  border-style: none;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 45px;
+}
+
+/* section 3 */
