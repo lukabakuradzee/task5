@@ -32,6 +32,7 @@ li {
   font-size: 20px;
   line-height: 30px;
   color: white;
+  cursor: pointer;
 }
 
 .list_post {
@@ -50,6 +51,7 @@ li {
   line-height: 30px;
   letter-spacing: 0.005em;
   margin-left: 300px;
+  cursor: pointer;
 
 }
 
@@ -150,13 +152,10 @@ li {
   margin-top: 45px;
 }
 
-
 /* section 3 */
 .section3 {
   width: 1180px;
-  margin: 200px auto;
-  /* background-color: red; */
-  
+  margin: 200px auto;  
 }
 
 .section3_heading {
@@ -192,5 +191,65 @@ li {
 
 .div_section4 {
   display: inline-block;
+  
+}
+ /* footer */
+footer {
+  width: 1440px;
+  background-color: #2A9D8F;
+  padding: 90px 0 198px 130px;
+
+}
+
+.footer_logo {
+  border: 2px solid white;
+  padding: 21.3px  27.72px;
+  border-radius: 50%;
+  margin-inline: auto;
+  vertical-align: top;
+  
+}
+.footer_frame {
+  width: 450px;
+  display: inline-block;
+  /* background-color: blue; */
+  margin-left: 634px;
+  
+
+}
+.div_posts {
+  display: inline-block;
+
+}
+
+.class a {
+  display: block;
+  color: white;
+
+}
+
+
+.footer_posts {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.005em;
+  margin-bottom: 21px;
+}
+
+.footer_event {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  
+  
+}
+
+.div_posts_middle {
+  display: inline-block;
+  margin-inline:  42px;
+
+  
   
 }
